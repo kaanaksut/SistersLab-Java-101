@@ -1,2 +1,3 @@
-# SistersLab-Java-101
- Java ile Backend Geliştirme
+# SistersLab-Java101
+
+Java ile BackEnd Gelistirme Akademisi 
